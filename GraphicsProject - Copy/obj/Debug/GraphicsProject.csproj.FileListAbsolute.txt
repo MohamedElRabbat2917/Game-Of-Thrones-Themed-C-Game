@@ -1,0 +1,17 @@
+C:\Users\VICTUS\source\repos\GraphicsProject\bin\Debug\GraphicsProject.exe.config
+C:\Users\VICTUS\source\repos\GraphicsProject\bin\Debug\GraphicsProject.exe
+C:\Users\VICTUS\source\repos\GraphicsProject\bin\Debug\GraphicsProject.pdb
+C:\Users\VICTUS\source\repos\GraphicsProject\obj\Debug\GraphicsProject.csproj.AssemblyReference.cache
+C:\Users\VICTUS\source\repos\GraphicsProject\obj\Debug\GraphicsProject.CimgActor.resources
+C:\Users\VICTUS\source\repos\GraphicsProject\obj\Debug\GraphicsProject.Properties.Resources.resources
+C:\Users\VICTUS\source\repos\GraphicsProject\obj\Debug\GraphicsProject.csproj.GenerateResource.cache
+C:\Users\VICTUS\source\repos\GraphicsProject\obj\Debug\GraphicsProject.csproj.CoreCompileInputs.cache
+C:\Users\VICTUS\source\repos\GraphicsProject\obj\Debug\GraphicsProject.exe
+C:\Users\VICTUS\source\repos\GraphicsProject\obj\Debug\GraphicsProject.pdb
+C:\Users\VICTUS\source\repos\GraphicsProject\obj\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\VICTUS\source\repos\GraphicsProject\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\VICTUS\source\repos\GraphicsProject\obj\Debug\Interop.WMLSS.dll
+C:\Users\VICTUS\source\repos\GraphicsProject\obj\Debug\Interop.WMPDXMLib.dll
+C:\Users\VICTUS\source\repos\GraphicsProject\obj\Debug\Interop.WMPLauncher.dll
+C:\Users\VICTUS\source\repos\GraphicsProject\obj\Debug\Interop.WMPLib.dll
+C:\Users\VICTUS\source\repos\GraphicsProject\obj\Debug\GraphicsProject.csproj.ResolveComReference.cache
